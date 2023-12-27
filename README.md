@@ -15,6 +15,7 @@ The information compiled in this repository is sourced from the following origin
 7. [Ripped](https://ripped.guide/): Additional resources for piracy-related content.
 8. [The Index](https://theindex.moe/): A catalog of anime-related content.
 9. [Wotaku](https://wotaku.moe/): A great source for anime piracy.
+10. [R/AnimePiracy Wiki](https://thewiki.moe/): Additional resources from the R/AnimePiracy Wiki.
 
 Please visit the original sources for more detailed discussions and context.
 
@@ -22,7 +23,7 @@ Please visit the original sources for more detailed discussions and context.
 
 This compilation aims to bring together links from various megathreads for a comprehensive resource on piracy-related content. Please note that the major rule governing this compilation is:
 
-**No Pornographic Piracy Content:** We strictly prohibit the inclusion of links or content related to pornographic piracy, including hentai, within this compilation. Please refer to the main sources, such as the r/Piracy megathread, Rentry version, Awesome Piracy, Champagne Piracy Wiki, EverythingMoe, FMHY, Ripped, The Index, and Wotaku, if you are looking for such content.
+**No Pornographic Piracy Content:** We strictly prohibit the inclusion of links or content related to pornographic piracy, including hentai, within this compilation. Please refer to the main sources, such as the r/Piracy megathread, Rentry version, Awesome Piracy, Champagne Piracy Wiki, EverythingMoe, FMHY, Ripped, The Index, Wotaku, and R/AnimePiracy Wiki, if you are looking for such content.
 
 ## Reporting Hazardous Sites
 
