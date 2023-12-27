@@ -1,18 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Piracy Megathread Definitive Edition</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .sidebar {
+            background-color: #333;
+            padding: 20px;
+            color: white;
+            min-width: 200px;
+        }
+
+        .sidebar a {
+            text-decoration: none;
+            color: #61dafb;
+            display: block;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+
+        .content {
+            padding: 20px;
+            flex-grow: 1;
+            background-color: white;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
+
 <body>
     <div class="container">
         <nav class="sidebar">
             <ul>
-                <li><a href="#features">Features</a></li>
-                <li><a href="#contribute">Contribute</a></li>
-                <li><a href="#license">License</a></li>
+                <!-- Sidebar links (you can add more as needed) -->
+                <li><a href="games.html">🎮 Games</a></li>
+                <li><a href="movies-tv.html">🎬 Movies & TV</a></li>
+                <li><a href="anime.html">🍱 Anime</a></li>
+                <li><a href="books.html">📚 Books</a></li>
+                <li><a href="emulators.html">🕹️ Emulators</a></li>
+                <li><a href="mobile.html">📱 Mobile</a>
+                    <ul>
+                        <li><a href="android.html">🤖 Android</a></li>
+                        <li><a href="ios.html">🍏 iOS</a></li>
+                    </ul>
+                </li>
+                <li><a href="music.html">🎵 Music</a></li>
+                <li><a href="software.html">💻 Software</a></li>
+                <li><a href="sports.html">⚽ Sports</a></li>
+                <li><a href="tools.html">🛠️ Tools</a></li>
+                <li><a href="mods.html">🎮 Mods</a></li>
+                <li><a href="guides.html">📖 Guides</a></li>
+                <li><a href="avoid.html">🚫 Sites to Avoid</a></li>
+                <li><a href="resources.html">📚 Resources</a></li>
+                <li><a href="contribute.html">🤝 Contribute</a></li>
+                <li><a href="license.html">📜 License</a></li>
             </ul>
         </nav>
 
@@ -22,21 +91,18 @@
                 <p>A curated collection of safe and valuable resources related to piracy.</p>
             </header>
 
-            <section id="features">
-                <h2>Features</h2>
-                <p>Explore curated links from r/Piracy megathreads and other trusted sources. Our focus is on safe and legal resources, with easy navigation and categorization for quick access to relevant content.</p>
+            <section>
+                <h2>Welcome!</h2>
+                <p>Explore the curated megathreads for different media categories. Find reliable and safe resources for your content needs.</p>
             </section>
 
-            <section id="contribute">
-                <h2>How to Contribute</h2>
-                <p>Contributions are welcome! If you have additional resources or want to report hazardous sites, please open an issue or submit a pull request. Together, let's create a reliable and up-to-date reference for the piracy community.</p>
-                <a href="https://github.com/elfhuo-Github/megathread-definitive" class="button">Contribute on GitHub</a>
+            <section>
+                <h2>Disclaimer</h2>
+                <p>This compilation is an extensive list of resources gathered from various megathreads. It aims to provide a comprehensive overview of safe sites related to piracy. Use this compilation responsibly, and be aware of the legal implications of engaging in piracy.</p>
             </section>
 
-            <section id="license">
-                <h2>License</h2>
-                <p>This project is licensed under the MIT License. Feel free to use, modify, and distribute the content, following the terms of the license.</p>
-            </section>
+            <!-- Additional sections for other media categories -->
+
         </div>
     </div>
 
@@ -44,4 +110,5 @@
         <p>&copy; 2023 Piracy Megathread Definitive Edition. All rights reserved.</p>
     </footer>
 </body>
+
 </html>
