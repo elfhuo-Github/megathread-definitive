@@ -23,7 +23,7 @@ Please visit the original sources for more detailed discussions and context.
 
 This compilation aims to bring together links from various megathreads for a comprehensive resource on piracy-related content. Please note that the major rule governing this compilation is:
 
-**No Pornographic Piracy Content:** We strictly prohibit the inclusion of links or content related to pornographic piracy, including hentai, within this compilation. Please refer to the main sources, such as the r/Piracy megathread, Rentry version, Awesome Piracy, Champagne Piracy Wiki, EverythingMoe, FMHY, Ripped, The Index, Wotaku, and R/AnimePiracy Wiki, if you are looking for such content.
+**No Pornographic Piracy Content:** We strictly prohibit the inclusion of links or content related to pornographic piracy, including hentai, within this compilation. Please refer to the main sources, such as the r/Piracy megathread, Rentry version, Awesome Piracy, Champagne Piracy Wiki, EverythingMoe, FMHY, Ripped, The Index, Wotaku, and r/AnimePiracy Wiki, if you are looking for such content.
 
 ## Reporting Hazardous Sites
 
