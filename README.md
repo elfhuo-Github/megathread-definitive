@@ -15,7 +15,7 @@ The information compiled in this repository is sourced from the following origin
 7. [Ripped](https://ripped.guide/): Additional resources for piracy-related content.
 8. [The Index](https://theindex.moe/): A catalog of anime-related content.
 9. [Wotaku](https://wotaku.moe/): A great source for anime piracy.
-10. [R/AnimePiracy Wiki](https://thewiki.moe/): Additional resources from the R/AnimePiracy Wiki.
+10. [r/AnimePiracy Wiki](https://thewiki.moe/): Additional resources from the R/AnimePiracy Wiki.
 
 Please visit the original sources for more detailed discussions and context.
 
